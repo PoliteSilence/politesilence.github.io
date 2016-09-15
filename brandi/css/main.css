@@ -77,21 +77,6 @@ body{min-width:320px;position:relative;line-height:1.6;overflow-x:hidden;margin:
 .hamburger--elastic-r.is-active .hamburger-inner{-webkit-transition-delay:.1s;transition-delay:.1s;-webkit-transform:translate3d(0, 10px, 0) rotate(-135deg);transform:translate3d(0, 10px, 0) rotate(-135deg);}
 .hamburger--elastic-r.is-active .hamburger-inner:before{-webkit-transition-delay:0s;transition-delay:0s;opacity:0;}
 .hamburger--elastic-r.is-active .hamburger-inner:after{-webkit-transition-delay:.1s;transition-delay:.1s;-webkit-transform:translate3d(0, -20px, 0) rotate(270deg);transform:translate3d(0, -20px, 0) rotate(270deg);}
-.main-header{min-height:60rem;background-size:cover;background-position:center;background-repeat:no-repeat;position:relative;padding-bottom:5rem;}
-.main-header__top{min-height:5rem;}
-.main-header__top_bg-color{background-color:rgba(16, 22, 54, 0.2);}
-.main-header__top .navbar-nav li a{color:#fff;-webkit-transition:all 0.5s ease;transition:all 0.5s ease;}
-.main-header__top .navbar-nav li a:hover{background-color:rgba(14, 236, 158, 0.5);-webkit-transition:all 0.5s ease;transition:all 0.5s ease;}
-.main-header__center{text-align:center;margin-top:20rem;}
-.main-header__heading{font-family:opensans-light, sans-serif;font-size:6.2rem;color:white;margin:0;}
-.main-header__heading_bold{font-family:opensans-bold, sans-serif;}
-.main-header__subheading{font-family:opensans-light, sans-serif;font-size:4.8rem;color:white;margin:0;}
-.main-header__subheading_accent-color{color:rgba(14, 235, 158, 0.9);}
-.main-header__tagline{font-family:opensans-light, sans-serif;font-size:1.8rem;color:white;position:relative;display:inline-block;margin:0;}
-.main-header__tagline::before, .main-header__tagline::after{content:'';height:1px;width:30px;background:#0feb9e;position:absolute;top:50%;}
-.main-header__tagline::before{left:-60px;}
-.main-header__tagline::after{right:-60px;}
-.main-header__bottom{text-align:center;margin-top:12rem;}
 .section{padding-top:5rem;padding-bottom:5rem;}
 .section .owl-dots{margin-top:50px !important;margin-bottom:50px;}
 .section .owl-dots .owl-dot span{border:1px solid #000;background:transparent;-webkit-transition:all 0.5s ease;transition:all 0.5s ease;}
