@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technologies
+
+# TEAM
+
+    <PoliteSilence> -- <Junior frontend develope> -- <twitter>
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGIES
+
+    HTML5, CSS3, JS
+    
